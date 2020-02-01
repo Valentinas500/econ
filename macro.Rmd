@@ -1,0 +1,75 @@
+---
+title: "Macroeconomics"
+---
+
+Basic Macroeconomics, ECON 3885, Spring 2020 at Fordham University
+
+Based on Mankiw, N. G. (2020). Principles of Macroeconomics. Cengage Learning.
+
+[Syllabus](https://drive.google.com/open?id=1fsAnEfJ2bd5DkOCWUfO1w8jPlSY-0MRU)
+
+#### Part 1
+<details open>
+<summary><a>Show all details</a></summary>
+
+<p>
+[Practice Midterm Exam 1](https://drive.google.com/open?id=16SaeEtKziJOu1UFp4ZwYJwOfmCCmjCSa) ([Answer Key]())
+
+- Introduction
+    + [Chapter 1: Ten Principles of Economics](https://drive.google.com/open?id=1yPeAAXm5fG4oPIDdYOHWkIr_Y2zan3QO) ([Quiz](https://drive.google.com/open?id=1Xaamk4S9bh4HYxuBV96fmoeCiqG2dvz-), [AK](https://drive.google.com/open?id=1COZBPTlDDhr3slAb14_Et_hBDM8YCHGC))
+    + [Chapter 2: Thinking Link an Economist](https://drive.google.com/open?id=1tQMZIkQ7miibT2LDDoTZSkaZLiELzELH) ([Quiz](https://drive.google.com/open?id=1sIcgKnszi_aakkRfT45lPpcpIAu9WmBu), [AK](https://drive.google.com/open?id=1bhEYlDNnKdxmD3E7bVKa334-ntxu_ITe))
+         - [Extra Credit Assignment 1](https://drive.google.com/open?id=1Hjxc56rxLuTaof9952tu_z4MS29HAVXs)
+    + [Chapter 3: Interdependence and Gains from Trade](https://drive.google.com/open?id=101joQYFtwZyoeIbYIjinHaKsJG0WN5Pn) ([Quiz](https://drive.google.com/open?id=14gmAN0Q_1nQGG5Y6MYICeid_QcMGf_DV), [AK](https://drive.google.com/open?id=1qVgk5hl_9ZyyPz7wdfB8W-8lVrYeEXj1))
+
+- How Markets Work
+    + [Chapter 4: The Market Forces of Supply and Demand](https://drive.google.com/open?id=1q9Sg5B6-tSKuB18gdncnUMSHOc-LCxT5) ([Quiz](https://drive.google.com/open?id=1b1ROclhcPQWFsIsrrbc4hf9KKgbT1iJK), [AK](https://drive.google.com/open?id=1-9xx73n167rWOue6i7qgkAeUtrW0qHxY))
+         - [Practice Problems](https://drive.google.com/open?id=1SGd3chj6Kduz7zdHlQbpNkhtpYe3cPSF)
+     
+- The Data of Macroeconomics
+    + [Chapter 10: Measuring a Nation's Income]() ([Quiz](https://drive.google.com/open?id=1tou0f8un7jDnO5arsPF5qzrSDVxwvpL2), [AK]())
+         - [GDP by Country]()
+    + [Chapter 11: Measuring the Cost of Living]()
+         - [CPI for All Urban Consumers: All Items]()
+</p>
+</details>
+
+#### Part 2
+<details>
+<summary><a>Show all details</a></summary>
+
+<p>
+[Practice Midterm Exam 2]() ([Answer Key]())
+
+- The Real Economy in the Long Run
+    + [Chapter 12: Production and Growth]()
+    + [Chapter 13: Saving, Investment, and the Financial System]()
+    + [Chapter 14: Basic Tools of Finance]()
+    + [Chapter 15: Unemployment]()
+         - [Understanding Labor Force and Unemployment Developments in the US]()
+</p>
+</details> 
+
+#### Part 3
+<details>
+<summary><a>Show all details</a></summary>
+
+<p>
+
+[Practice Final Exam]() ([Answer Key]())
+
+- Money and Prices in the Long Run
+    + [Chapter 16: The Monetary System]()
+    + [Chapter 17: Money Growth and Inflation]()
+
+- The Macroeconomics of Open Economies
+    + [Chapter 18: Open Economy Macroeconomics: Basic Concepts]()
+         - [The Big Mac Index. WHAT!?]()
+
+- Short-Run Economic Fluctuations
+    + [Chapter 20: Aggregate Demand and Aggregate Supply]()
+    + [Chapter 21: The Influence of Monetary and Fiscal Policy on Aggregate Demand]()
+    + [Chapter 23: Six Debates over Macroeconomic Policy]()
+</p>
+</details> 
+
+
